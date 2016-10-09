@@ -1,0 +1,23 @@
+<!-- Header -->
+        <header id="header" role="banner">
+
+            <?php require 'static/_header_meta.inc.php'; ?>
+
+            <div id="header_main" class="sticky header_main">
+                <div class="container">
+                    <!-- Logo -->
+                    <div class="site_brand">
+                        <h1 id="site_title"><a href="/">Routes <span>Inc</span></a></h1>
+                        <h2 id="site_description">...connecting people</h2>
+                        <!--
+                        <a href="#">
+                            <img src="images/logo.png" alt="Logo">
+                        </a>
+                        --> 
+                    </div><!-- End Logo -->
+
+                    <?php require 'static/_navigation.inc.php'; ?>
+
+                </div>
+            </div><!-- End Header main -->
+        </header><!-- End Header -->
