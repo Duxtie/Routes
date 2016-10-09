@@ -18,7 +18,7 @@
                         <!-- Panel title -->
                             <div class="panel_title">
                                 <div>
-                                    <h4><a href="blog.html">Entertainment</a></h4>
+                                    <h4><a href="blog.html">Our Companies & Organizations</a></h4>
                                 </div>
                             </div><!-- End Panel title -->
                             <!-- Layout post 1 -->
@@ -153,13 +153,13 @@
                             <!-- Panel title -->
                             <div class="panel_title">
                                 <div>
-                                    <h4><a href="blog.html">Top reviews</a></h4>
+                                    <h4><a href="blog.html">Top News</a></h4>
                                 </div>
                             </div><!-- End Panel title -->
-                            <!-- Top reviews -->
+                            <!-- Top News -->
                             <div class="row">
                                 <div class="col col_4_of_12">
-                                    <!-- Top review -->
+                                    <!-- Top New -->
                                     <div class="top_review">
                                         <div class="item_content">
                                             <a class="hover_effect" href="post_single.html">
@@ -174,7 +174,7 @@
                                             </span>
                                         </div>
                                         <div class="transition_line"></div>
-                                    </div><!-- End Top review -->
+                                    </div><!-- End Top New -->
                                 </div>
                                 <div class="col col_4_of_12">
                                     <!-- Top review -->
@@ -440,19 +440,15 @@
                                 <div class="tb_widget_socialize clearfix">
                                     <a href="http://www.facebook.com/" target="_blank" class="icon facebook">
                                         <div class="symbol"><i class="fa fa-facebook"></i></div>
-                                        <div class="text"><p>46,841</p><p>Facebook</p></div>
                                     </a>
                                     <a href="https://plus.google.com" target="_blank"  class="icon google">
                                         <div class="symbol"><i class="fa fa-google-plus"></i></div>
-                                        <div class="text"><p>17,045</p><p>Google+</p></div>
                                     </a>
                                     <a href="http://www.twitter.com/" target="_blank"  class="icon twitter">
                                         <div class="symbol"><i class="fa fa-twitter"></i></div>
-                                        <div class="text"><p>3,075</p><p>Twitter</p></div>
                                     </a>
                                     <a href="http://www.linkedin.com/" target="_blank"  class="icon linkedin">
                                         <div class="symbol"><i class="fa fa-linkedin"></i></div>
-                                        <div class="text"><p>15,441</p><p>LinkedIn</p></div>
                                     </a>
                                 </div>
                             </div><!-- End Widget Social widget -->
@@ -513,9 +509,9 @@
                                 </div><!-- End Post item -->
                             </div>
                         </div><!-- End Widget top rated -->
-                            <!-- Widget timeline -->
+                            <!-- Widget Events -->
                             <div class="widget">
-                                <div class="widget_title"><h3>Timeline</h3></div>
+                                <div class="widget_title"><h3>Events</h3></div>
                                 <div class="tb_widget_timeline clearfix">
                                     <!-- Article -->
                                     <article>
@@ -581,7 +577,7 @@
                                         </div>
                                     </article><!-- End Article -->
                                 </div>
-                            </div><!-- End Widget timeline -->
+                            </div><!-- End Widget Events -->
                             <!-- Widget Banners 125 -->
                             <div class="widget">
                                 <div class="widget_title"><h3>Banner</h3></div>

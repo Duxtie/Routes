@@ -5,6 +5,74 @@
                         <ul class="menu">
                             <li class=""><a href="/">Home</a></li>
                             <li class=""><a href="#">Services</a></li>
+                            <li class="menu-item-has-children has_dt_mega_menu"><a href="#">Clients</a>
+                                <span class="site_sub_menu_toggle"></span>
+                                <ul class="dt_mega_menu" jQuery>
+                                    <li>
+                                         <!-- Category widget -->
+                                        <div class="widget">
+                                            <div class="widget_title"><h3>Categories</h3></div>
+                                            <div class="tb_widget_categories">
+                                                <ul>
+                                                    <li><a href="#">Advertising/Marketing</a> (159)</li>
+                                                    <li><a href="#">Agriculture/Pultry/Fishing</a> (159)</li>
+                                                    <li><a href="#">Banking/Financial Services</a> (159)</li>
+                                                    <li><a href="#">Construction/Real Estate</a> (159)</li>
+                                                    <li><a href="#">Consulting</a> (159)</li>
+                                                    <li><a href="#">Creation/Art/Design</a> (159)</li>
+                                                    <li><a href="#">Ecommerce/Internet</a> (159)</li>                                                 
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="widget">
+                                            <div class="widget_title"><h3></h3></div>
+                                            <div class="tb_widget_categories">
+                                                <ul>
+                                                    <li><a href="#">Education</a> (159)</li>
+                                                    <li><a href="#">Engineering</a> (159)</li>
+                                                    <li><a href="#">FCMG</a> (159)</li>
+                                                    <li><a href="#">Food Service</a> (159)</li>
+                                                    <li><a href="#">Government/Defence</a> (159)</li>
+                                                    <li><a href="#">Healthcare</a> (159)</li>
+                                                    <li><a href="#">Hospitality/Leisure</a> (159)</li>                                                    
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="widget">
+                                            <div class="widget_title"><h3></h3></div>
+                                            <div class="tb_widget_categories">
+                                                <ul>
+                                                    <li><a href="#">ICT/Telecommunication</a> (159)</li>
+                                                    <li><a href="#">Insurance</a> (159)</li>
+                                                    <li><a href="#">Legal</a> (159)</li>
+                                                    <li><a href="#">Logistics/Transportation</a> (159)</li>
+                                                    <li><a href="#">Manufacturing/Production</a> (159)</li>
+                                                    <li><a href="#">Media</a> (159)</li>
+                                                    <li><a href="#">NGO</a> (159)</li>                                                    
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="widget">
+                                            <div class="widget_title"><h3></h3></div>
+                                            <div class="tb_widget_categories">
+                                                <ul>
+                                                    <li><a href="#">Oil & Gas/Mining</a> (159)</li>
+                                                    <li><a href="#">Power/Energy</a> (159)</li>
+                                                    <li><a href="#">Retail/Wholesale</a> (159)</li>
+                                                    <li><a href="#">Trade/Service</a> (159)</li>
+                                                    <li><a href="#">Travels/Tours</a> (159)</li>
+                                                    <li><a href="#">All Categories</a> (159)</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <!-- End Category widget -->
+                                    </li>
+                                </ul>
+                            </li>
+
+
+
+
                             <li class="menu-item-has-children has_dt_mega_menu"><a href="#">Products</a>
                                 <span class="site_sub_menu_toggle"></span>
                                 <ul class="dt_mega_menu" jQuery>

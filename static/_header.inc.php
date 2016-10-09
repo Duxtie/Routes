@@ -7,8 +7,8 @@
                 <div class="container">
                     <!-- Logo -->
                     <div class="site_brand">
-                        <h1 id="site_title"><a href="/">Routes <span>Inc</span></a></h1>
-                        <h2 id="site_description">...connecting people</h2>
+                        <h1 id="site_title"><a href="/">Routes <span> Ltd</span></a></h1>
+                        <h2 id="site_description">...connected by Trails</h2>
                         <!--
                         <a href="#">
                             <img src="images/logo.png" alt="Logo">

@@ -6,8 +6,8 @@
                         <!-- Widget Text widget -->
                         <div class="widget">
                             <div class="widget_title"><h3>Routes</h3></div>
-                            <p>TrendyBlog is a professional HTML5 template perfect for newspaper publishers, magazines ort personal blogs.</p>
-                            <p>You get 30 fully featured pages with lots of widgets, menus, different post layouts and homepages.</p>
+                            <p>Routes Ltd as a private agency, is interested in providing genuinely registered Companies with Adverts, Publicity as well as Business Interactions and Opportunities with other companies and organizations.</p>
+                            <p>The Agency is planned to improve her client business by means of reputable publicity provided on a plat form we create.</p>
                         </div><!-- End Widget text widget -->
                         <!-- Widget Social widget -->
                         <div class="widget">

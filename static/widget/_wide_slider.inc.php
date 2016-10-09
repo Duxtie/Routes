@@ -10,8 +10,8 @@
 							<span class="comments"><a href="post_single.html">358 Comments</a></span>
 						</div>
 						<div class="thumb_link">
-							<h3><a href="post_single.html">Suspendisse porta quam eget nibh rhoncus eget ornare urna varius ed ut mauris</a></h3>
-							<p>Mauris blandit orci consectetur est congue lacinia. Morbi magna nulla, lacinia eu consectetur nec, consectetur sed orci. Curabitur efficitur feugiat tortor nec gravida. Nulla lobortis elementum ligula id tempus [...]</p>
+							<h3><a href="post_single.html">Providing a global business network for Billions of Organizations</a></h3>
+							<p>A world of web connection facilitating National and International Organizations and Businesses all round the globe.</p>
 						</div>
 					</div>
 				</li><!-- End Slide item -->
@@ -24,8 +24,8 @@
 							<span class="comments"><a href="post_single.html">358 Comments</a></span>
 						</div>
 						<div class="thumb_link">
-							<h3><a href="post_single.html">Suspendisse porta quam eget nibh rhoncus eget ornare urna varius ed ut mauris</a></h3>
-							<p>Mauris blandit orci consectetur est congue lacinia. Morbi magna nulla, lacinia eu consectetur nec, consectetur sed orci. Curabitur efficitur feugiat tortor nec gravida. Nulla lobortis elementum ligula id tempus [...]</p>
+							<h3><a href="post_single.html">Providing a global business network for Billions of Organizations</a></h3>
+							<p>A world of web connection facilitating National and International Organizations and Businesses all round the globe.</p>
 						</div>
 					</div>
 				</li><!-- End Slide item -->
@@ -38,8 +38,8 @@
 							<span class="comments"><a href="post_single.html">358 Comments</a></span>
 						</div>
 						<div class="thumb_link">
-							<h3><a href="post_single.html">Suspendisse porta quam eget nibh rhoncus eget ornare urna varius ed ut mauris</a></h3>
-							<p>Mauris blandit orci consectetur est congue lacinia. Morbi magna nulla, lacinia eu consectetur nec, consectetur sed orci. Curabitur efficitur feugiat tortor nec gravida. Nulla lobortis elementum ligula id tempus [...]</p>
+							<h3><a href="post_single.html">Providing a global business network for Billions of Organizations</a></h3>
+							<p>A world of web connection facilitating National and International Organizations and Businesses all round the globe.</p>
 						</div>
 					</div>
 				</li><!-- End Slide item -->
@@ -52,8 +52,8 @@
 							<span class="comments"><a href="post_single.html">358 Comments</a></span>
 						</div>
 						<div class="thumb_link">
-							<h3><a href="post_single.html">Suspendisse porta quam eget nibh rhoncus eget ornare urna varius ed ut mauris</a></h3>
-							<p>Mauris blandit orci consectetur est congue lacinia. Morbi magna nulla, lacinia eu consectetur nec, consectetur sed orci. Curabitur efficitur feugiat tortor nec gravida. Nulla lobortis elementum ligula id tempus [...]</p>
+							<h3><a href="post_single.html">Providing a global business network for Billions of Organizations</a></h3>
+							<p>A world of web connection facilitating National and International Organizations and Businesses all round the globe.</p>
 						</div>
 					</div>
 				</li><!-- End Slide item -->
