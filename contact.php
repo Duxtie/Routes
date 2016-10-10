@@ -6,9 +6,7 @@
     <div id="wrapper" class="wide">   
 
         <?php require 'static/_header.inc.php'; ?>
-		
-		<?php require 'static/widget/_wide_slider.inc.php'; ?>
-		
+				
        <section>
                 <div class="container">
                     <div class="row">
