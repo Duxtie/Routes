@@ -3,7 +3,7 @@
                     <nav class="site_navigation" role="navigation">
                         <span class="site_navigation_toggle"><i class="fa fa-reorder"></i></span>
                         <ul class="menu">
-                            <li class=""><a href="/">Home</a></li>
+                            <li class=""><a href="index.php">Home</a></li>
                             <li class=""><a href="#">Services</a></li>
                             <li class="menu-item-has-children has_dt_mega_menu"><a href="#">Clients</a>
                                 <span class="site_sub_menu_toggle"></span>
@@ -236,6 +236,6 @@
                                 </ul>
                             </li>
                             <li><a href="#">News</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="contact.php">Contact</a></li>
                         </ul>
                     </nav><!-- End Site navigation -->
