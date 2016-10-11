@@ -9,6 +9,7 @@
 		
 		<?php require 'static/widget/_wide_slider.inc.php'; ?>
 	
+        <hr/>
         <section>
           <div class="container">
             <div class="row">
@@ -31,6 +32,7 @@
             </div>
           </div>
         </section>
+        <hr/>
 
         <!-- Section -->
         <section>
