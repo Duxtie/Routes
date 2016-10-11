@@ -8,9 +8,35 @@
         <?php require 'static/_header.inc.php'; ?>
 		
 		<?php require 'static/widget/_wide_slider.inc.php'; ?>
-		
+	
+        <section>
+          <div class="container">
+            <div class="row">
+              <div class"col col_12_of_12">
+                <form action="" class="home_search">
+                    <div class="col">
+                        <input autocomplete="off" class="" name="term" placeholder="Company Name" type="text">
+                    </div>
+                    <div class="col">
+                        <input autocomplete="off" Class="" name="term" placeholder="Location" type="text">
+                    </div>
+                    <div class="col">
+                        <input autocomplete="off" Class="" name="term" placeholder="Categories" type="text">
+                    </div>
+                    <div class="col">
+                        <input value="Search" type="submit"></input>
+                    </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <!-- Section -->
         <section>
+
+           
+
             <div class="container">
                 <div class="row">
                     <!-- Main content -->
