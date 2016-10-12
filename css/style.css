@@ -335,6 +335,7 @@ form {
     margin-bottom: 15px
 }
 input,
+select,
 textarea {
     background-color: #fff;
     border: 1px solid #ddd;
@@ -707,7 +708,7 @@ ul.products li.product {
 ul.products li.product .item_thumb {
     position: relative;
     overflow: hidden;
-    background-color: #fff;
+    background-color: #000;
     margin-bottom: 10px
 }
 ul.products li.product .item_thumb .thumb_icon {
@@ -725,7 +726,7 @@ ul.products li.product .item_thumb .thumb_icon {
 }
 ul.products li.product .item_thumb .thumb_icon a {
     font-size: 10px;
-    color: #fff;
+    color: #000;
     width: 26px;
     height: 26px;
     line-height: 26px;
@@ -766,7 +767,7 @@ ul.products li.product:hover .item_thumb img {
     padding: 3px 8px;
     text-align: center;
     background: #C63F00;
-    color: #fff;
+    color: #000;
     font-size: 12px;
     font-weight: 400;
     position: absolute;
@@ -1020,7 +1021,7 @@ ul.page-numbers li span.current {
 }
 .layout_post_1 .item_thumb .thumb_icon a {
     font-size: 14px;
-    color: #fff;
+    color: #000;
     width: 44px;
     height: 44px;
     line-height: 44px;
@@ -1148,7 +1149,7 @@ ul.page-numbers li span.current {
 }
 .layout_post_2 .item_thumb .thumb_icon a {
     font-size: 14px;
-    color: #fff;
+    color: #000;
     width: 44px;
     height: 44px;
     line-height: 44px;
@@ -1613,7 +1614,7 @@ ul.children {
     width: 75px;
     position: relative;
     overflow: hidden;
-    background-color: #fff;
+    background-color: #000;
     float: left;
     margin: 0 10px 0 0
 }
@@ -1632,7 +1633,7 @@ ul.children {
 }
 .list_posts .post .item_thumb .thumb_icon a {
     font-size: 10px;
-    color: #fff;
+    color: #000;
     width: 26px;
     height: 26px;
     line-height: 26px;
@@ -3498,7 +3499,7 @@ span.format {
     width: 75px;
     position: relative;
     overflow: hidden;
-    background-color: #fff;
+    background-color: #000;
     float: left;
     margin: 0 10px 0 0
 }
@@ -3517,7 +3518,7 @@ span.format {
 }
 .tb_widget_recent_list .item .item_thumb .thumb_icon a {
     font-size: 10px;
-    color: #fff;
+    color: #000;
     width: 26px;
     height: 26px;
     line-height: 26px;
@@ -3562,7 +3563,7 @@ span.format {
     display: block
 }
 #footer .tb_widget_recent_list .item .item_content h4 a {
-    color: #fff
+    color: #000
 }
 
 /*------------------------------------------------------------------------------
@@ -3617,7 +3618,7 @@ span.format {
 .tb_widget_top_rated .item .item_thumb {
     position: relative;
     overflow: hidden;
-    background-color: #fff;
+    background-color: #000;
     float: left;
     margin: 0 10px 0 0
 }
@@ -3696,21 +3697,21 @@ span.format {
 #copyright p {
     margin: 0
 }
-/* .home_search{
-    margin-left:30px;
-    position: relative;
-    width:1000px;
-    border-radius:20px;
-    display:inline-table;
+.home_search{
+    display: table;
+    padding: 5px;
+    margin: 0;
  }
 
- .input{
-    margin:5px;
-    width:300px;
+
+
+.container .row .col_col_12_of_12{
+    height:50px;
+    border-color:#000;
+
 }
-*/
 
-
-
-
-
+input.signin-btn {
+    float: right;
+    width: 100%;
+}

@@ -12,6 +12,7 @@
     <!-- <link rel="stylesheet" href="css/weather.css"> -->
     <link rel="stylesheet" href="css/colors.css">
     <link rel="stylesheet" href="css/typography.css">
+    <link rel="stylesheet" href="css/strap.css">
     <link rel="stylesheet" href="css/style.css">
      
 

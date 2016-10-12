@@ -2,6 +2,7 @@
 <html>
 <?php require 'static/_head.inc.php';?>
 <body>
+
     <!-- Wrapper -->
     <div id="wrapper" class="wide">   
 
@@ -11,21 +12,26 @@
 	
         <hr/>
         <section>
-          <div class="container">
+          <div class="container kkk">
             <div class="row">
-              <div class"col col_12_of_12">
+              <div class="col col_12_of_12">
                 <form action="" class="home_search">
-                    <div class="col">
-                        <input autocomplete="off" class="" name="term" placeholder="Company Name" type="text">
+                    <div class="col col_4_of_12">
+                        <input autocomplete="off" class="" name="company_name" placeholder="Company Name" type="text">
                     </div>
-                    <div class="col">
-                        <input autocomplete="off" Class="" name="term" placeholder="Location" type="text">
+                    <div class="col col_3_of_12">
+                        <input autocomplete="off" class="" name="location" placeholder="Location" type="text">
                     </div>
-                    <div class="col">
-                        <input autocomplete="off" Class="" name="term" placeholder="Categories" type="text">
+                    <div class="col col_4_of_12">
+                        <!-- <input autocomplete="off" class="" name="term" placeholder="Categories" type="text"> -->
+                        <select>
+                            <option>Category One</option>
+                            <option>Category Two</option>
+                            <option>Category Three</option>
+                        </select>
                     </div>
-                    <div class="col">
-                        <input value="Search" type="submit"></input>
+                    <div class="col col_1_of_12">
+                        <input value="Search" type="submit">
                     </div>
                 </form>
               </div>
@@ -55,16 +61,9 @@
                                     <!-- Layout post 1 -->
                                     <div class="layout_post_1">
                                         <div class="item_thumb">
-                                            <div class="thumb_icon">
-                                                <a href="post_single.html" jQuery><i class="fa fa-copy"></i></a>
-                                            </div>
                                             <div class="thumb_hover">
                                                 <a href="post_single.html"><img src="demo/500x300/2.jpg" alt="Post"></a>
                                             </div>
-                                            <div class="thumb_meta">
-                                                <span class="category" jQuery><a href="blog.html">Football</a></span>
-                                                <span class="comments"><a href="post_single.html">15 Comments</a></span>
-                                            </div>
                                         </div>
                                         <div class="item_content">
                                             <h4><a href="post_single.html">Maecenas tempor volutpat commodo uspendisse potenti ed congue sodales</a></h4>
@@ -76,16 +75,9 @@
                                     <!-- Layout post 1 -->
                                     <div class="layout_post_1">
                                         <div class="item_thumb">
-                                            <div class="thumb_icon">
-                                                <a href="post_single.html"><i class="fa fa-copy"></i></a>
-                                            </div>
                                             <div class="thumb_hover">
                                                 <a href="post_single.html"><img src="demo/500x300/1.jpg" alt="Post"></a>
                                             </div>
-                                            <div class="thumb_meta">
-                                                <span class="category"><a href="blog.html">Football</a></span>
-                                                <span class="comments"><a href="post_single.html">15 Comments</a></span>
-                                            </div>
                                         </div>
                                         <div class="item_content">
                                             <h4><a href="post_single.html">Maecenas tempor volutpat commodo uspendisse potenti ed congue sodales</a></h4>
@@ -97,16 +89,9 @@
                                     <!-- Layout post 1 -->
                                     <div class="layout_post_1">
                                         <div class="item_thumb">
-                                            <div class="thumb_icon">
-                                                <a href="post_single.html" jQuery><i class="fa fa-copy"></i></a>
-                                            </div>
                                             <div class="thumb_hover">
                                                 <a href="post_single.html"><img src="demo/500x300/2.jpg" alt="Post"></a>
                                             </div>
-                                            <div class="thumb_meta">
-                                                <span class="category" jQuery><a href="blog.html">Football</a></span>
-                                                <span class="comments"><a href="post_single.html">15 Comments</a></span>
-                                            </div>
                                         </div>
                                         <div class="item_content">
                                             <h4><a href="post_single.html">Maecenas tempor volutpat commodo uspendisse potenti ed congue sodales</a></h4>
@@ -118,16 +103,9 @@
                                     <!-- Layout post 1 -->
                                     <div class="layout_post_1">
                                         <div class="item_thumb">
-                                            <div class="thumb_icon">
-                                                <a href="post_single.html"><i class="fa fa-copy"></i></a>
-                                            </div>
                                             <div class="thumb_hover">
                                                 <a href="post_single.html"><img src="demo/500x300/1.jpg" alt="Post"></a>
                                             </div>
-                                            <div class="thumb_meta">
-                                                <span class="category"><a href="blog.html">Football</a></span>
-                                                <span class="comments"><a href="post_single.html">15 Comments</a></span>
-                                            </div>
                                         </div>
                                         <div class="item_content">
                                             <h4><a href="post_single.html">Maecenas tempor volutpat commodo uspendisse potenti ed congue sodales</a></h4>
@@ -139,16 +117,9 @@
                                     <!-- Layout post 1 -->
                                     <div class="layout_post_1">
                                         <div class="item_thumb">
-                                            <div class="thumb_icon">
-                                                <a href="post_single.html" jQuery><i class="fa fa-copy"></i></a>
-                                            </div>
                                             <div class="thumb_hover">
                                                 <a href="post_single.html"><img src="demo/500x300/2.jpg" alt="Post"></a>
                                             </div>
-                                            <div class="thumb_meta">
-                                                <span class="category" jQuery><a href="blog.html">Football</a></span>
-                                                <span class="comments"><a href="post_single.html">15 Comments</a></span>
-                                            </div>
                                         </div>
                                         <div class="item_content">
                                             <h4><a href="post_single.html">Maecenas tempor volutpat commodo uspendisse potenti ed congue sodales</a></h4>
@@ -160,16 +131,9 @@
                                     <!-- Layout post 1 -->
                                     <div class="layout_post_1">
                                         <div class="item_thumb">
-                                            <div class="thumb_icon">
-                                                <a href="post_single.html"><i class="fa fa-copy"></i></a>
-                                            </div>
                                             <div class="thumb_hover">
                                                 <a href="post_single.html"><img src="demo/500x300/1.jpg" alt="Post"></a>
-                                            </div>
-                                            <div class="thumb_meta">
-                                                <span class="category"><a href="blog.html">Football</a></span>
-                                                <span class="comments"><a href="post_single.html">15 Comments</a></span>
-                                            </div>
+                                            </div>                                            
                                         </div>
                                         <div class="item_content">
                                             <h4><a href="post_single.html">Maecenas tempor volutpat commodo uspendisse potenti ed congue sodales</a></h4>
@@ -251,16 +215,9 @@
 								<!-- Layout post 1 -->
 								<div class="layout_post_1">
 									<div class="item_thumb">
-										<div class="thumb_icon">
-											<a href="post_single.html" jQuery><i class="fa fa-copy"></i></a>
-										</div>
 										<div class="thumb_hover">
 											<a href="post_single.html"><img src="demo/500x300/7.jpg" alt="Post" class="visible animated"></a>
-										</div>
-										<div class="thumb_meta">
-											<span class="category" jQuery><a href="blog.html">Football</a></span>
-											<span class="comments"><a href="post_single.html">15 Comments</a></span>
-										</div>
+										</div>								
 									</div>
 									<div class="item_content">
 										<h4><a href="post_single.html">Etiam convallis feugiat risus, vitae molestie tellus lacinia non in consectetur magna</a></h4>
@@ -272,9 +229,6 @@
 									<!-- Post -->
 									<div class="post clearfix">
 										<div class="item_thumb">
-											<div class="thumb_icon">
-												<a href="post_single.html" jQuery><i class="fa fa-copy"></i></a>
-											</div>
 											<div class="thumb_hover">
 												<a href="post_single.html"><img src="demo/500x500/14.jpg" alt="Post" class="visible animated"></a>
 											</div>
@@ -291,9 +245,6 @@
 									<!-- Post -->
 									<div class="post clearfix">
 										<div class="item_thumb">
-											<div class="thumb_icon">
-												<a href="post_single.html"><i class="fa fa-copy"></i></a>
-											</div>
 											<div class="thumb_hover">
 												<a href="post_single.html"><img src="demo/500x500/7.jpg" alt="Post" class="visible animated"></a>
 											</div>
@@ -310,9 +261,6 @@
 									<!-- Post -->
 									<div class="post clearfix">
 										<div class="item_thumb">
-											<div class="thumb_icon">
-												<a href="post_single.html" jQuery><i class="fa fa-copy"></i></a>
-											</div>
 											<div class="thumb_hover">
 												<a href="post_single.html"><img src="demo/500x500/1.jpg" alt="Post" class="visible animated"></a>
 											</div>
@@ -329,9 +277,6 @@
 									<!-- Post -->
 									<div class="post clearfix">
 										<div class="item_thumb">
-											<div class="thumb_icon">
-												<a href="post_single.html" jQuery><i class="fa fa-copy"></i></a>
-											</div>
 											<div class="thumb_hover">
 												<a href="post_single.html"><img src="demo/500x500/2.jpg" alt="Post" class="visible animated"></a>
 											</div>
@@ -347,9 +292,6 @@
 									<!-- Post -->
 									<div class="post clearfix">
 										<div class="item_thumb">
-											<div class="thumb_icon">
-												<a href="post_single.html" jQuery><i class="fa fa-copy"></i></a>
-											</div>
 											<div class="thumb_hover">
 												<a href="post_single.html"><img src="demo/500x500/9.jpg" alt="Post" class="visible animated"></a>
 											</div>
@@ -377,16 +319,9 @@
                                 <!-- Layout post 1 -->
                                 <div class="layout_post_2 clearfix">
                                     <div class="item_thumb">
-                                        <div class="thumb_icon">
-                                            <a href="post_single.html" jQuery><i class="fa fa-copy"></i></a>
-                                        </div>
                                         <div class="thumb_hover">
                                             <a href="post_single.html"><img src="demo/500x300/3.jpg" alt="Post" class="visible animated"></a>
-                                        </div>
-                                        <div class="thumb_meta">
-                                            <span class="category" jQuery><a href="blog.html">Travel</a></span>
-                                            <span class="comments"><a href="post_single.html">15 Comments</a></span>
-                                        </div>
+                                        </div>                                        
                                     </div>
                                     <div class="item_content">
                                         <h4><a href="post_single.html">Maecenas tempor volutpat commodo uspendisse potenti ed congue sodales hac habitasse platea dictumst</a></h4>
@@ -402,16 +337,9 @@
                                 <!-- Layout post 1 -->
                                 <div class="layout_post_2 clearfix">
                                     <div class="item_thumb">
-                                        <div class="thumb_icon">
-                                            <a href="post_single.html" jQuery><i class="fa fa-copy"></i></a>
-                                        </div>
                                         <div class="thumb_hover">
                                             <a href="post_single.html"><img src="demo/500x300/6.jpg" alt="Post" class="visible animated"></a>
-                                        </div>
-                                        <div class="thumb_meta">
-                                            <span class="category" jQuery><a href="blog.html">Fashion</a></span>
-                                            <span class="comments"><a href="post_single.html">15 Comments</a></span>
-                                        </div>
+                                        </div>                                        
                                     </div>
                                     <div class="item_content">
                                         <h4><a href="post_single.html">Maecenas tempor volutpat commodo uspendisse potenti ed congue sodales hac habitasse platea dictumst</a></h4>
@@ -427,15 +355,8 @@
                                 <!-- Layout post 1 -->
                                 <div class="layout_post_2 clearfix">
                                     <div class="item_thumb">
-                                        <div class="thumb_icon">
-                                            <a href="post_single.html" jQuery><i class="fa fa-copy"></i></a>
-                                        </div>
                                         <div class="thumb_hover">
                                             <a href="post_single.html"><img src="demo/500x300/5.jpg" alt="Post" class="visible animated"></a>
-                                        </div>
-                                        <div class="thumb_meta">
-                                            <span class="category" jQuery><a href="blog.html">Fashion</a></span>
-                                            <span class="comments"><a href="post_single.html">15 Comments</a></span>
                                         </div>
                                     </div>
                                     <div class="item_content">

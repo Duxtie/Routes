@@ -10,8 +10,7 @@
                     <nav class="top_navigation" role="navigation">
                         <span class="top_navigation_toggle"><i class="fa fa-reorder"></i></span>
                         <ul class="menu">
-                            <li class=""><a href="#" onclick="return false">Home</a></li>
-                            <li class=""><a href="#" onclick="return false">News</a></li>
+                            <li class=""><a href="sign-in.php">Sign in</a></li>
                             <li><a href="#" onclick="return false">Contact Us</a></li>
                             <li class="search_icon_form"><a href="#"><i class="fa fa-search"></i></a>
                                 <div class="sub-search">
