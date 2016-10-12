@@ -2653,7 +2653,8 @@ img.mfp-img {
     z-index: 9;
     display: block;
     position: relative;
-    width: 100%
+    width: 100%;
+	background: #fff;
 }
 #header_main .container {
     padding-top: 20px;
@@ -3701,9 +3702,20 @@ span.format {
     display: table;
     padding: 5px;
     margin: 0;
+	width: 100%;
  }
-
-
+.page-content {
+	position: relative;
+	height: auto;
+	padding: 25px 0 35px;
+	background: #fff;
+}
+.wide_slider {
+    /*! top: 0; */
+    position: fixed;
+    width: 100%;
+	overflow: hidden;
+}
 
 .container .row .col_col_12_of_12{
     height:50px;

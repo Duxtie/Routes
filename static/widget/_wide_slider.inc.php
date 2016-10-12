@@ -2,7 +2,7 @@
 		<div class="wide_slider">
 			<ul>
 				<!-- Slide item -->
-				<li>
+				<li class="slide">
 					<a href="post_single.html"><img src="demo/1900x500/9.jpg" alt="Slider"></a>
 					<div class="slider_caption">
 						<div class="thumb_link">
@@ -12,7 +12,7 @@
 					</div>
 				</li><!-- End Slide item -->
 				<!-- Slide item -->
-				<li>
+				<li class="slide">
 					<a href="post_single.html"><img src="demo/1900x500/6.jpg" alt="Slider"></a>
 					<div class="slider_caption">
 						<div class="thumb_link">
@@ -22,7 +22,7 @@
 					</div>
 				</li><!-- End Slide item -->
 				<!-- Slide item -->
-				<li>
+				<li class="slide">
 					<a href="post_single.html"><img src="demo/1900x500/8.jpg" alt="Slider"></a>
 					<div class="slider_caption">
 						<div class="thumb_link">
@@ -32,7 +32,7 @@
 					</div>
 				</li><!-- End Slide item -->
 				<!-- Slide item -->
-				<li>
+				<li class="slide">
 					<a href="post_single.html"><img src="demo/1900x500/7.jpg" alt="Slider"></a>
 					<div class="slider_caption">
 						<div class="thumb_link">
