@@ -3727,3 +3727,30 @@ input.signin-btn {
     float: right;
     width: 100%;
 }
+
+.form-border{
+    background: rgba(255, 255, 255, 0.2);
+    padding: 15px;
+    border-radius: 4px;
+    height: 280px;
+}
+.form-group{
+    margin-bottom:15px;
+}
+
+.form-border #form-map .form-group input{
+    border-radius:5px;
+}
+
+.form-border #form-map .form-group select{
+    border-radius:5px;
+}
+
+.form-border #form-map h2{
+    color:#fff;
+
+
+
+
+
+

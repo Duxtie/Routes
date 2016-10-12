@@ -177,26 +177,28 @@
 						<div class="row">
 							<div class="col-md-3 col-md-offset-9 col-sm-4 col-sm-offset-8">
 								<div class="search-box map">
-									<form role="form" id="form-map" class="form-map form-search" action="search">
-										<h2>Search</h2>
-										<div class="form-group">
-											<input type="text" name="company_name" placeholder="Company" autocomplete="false"/>
-										</div><!-- /.form-group -->
-										<div class="form-group">
-											<input type="text" class="form-control" id="search-box-property-id"  autocomplete="false" placeholder="Location">
-										</div><!-- /.form-group -->
-										<div class="form-group">
-											<select name="industry">
-												<option value="">-- Select industry --</option>
-												<option value="">Industry One</option>
-												<option value="">Industry Two</option>
-												</select>
-										</div><!-- /.form-group -->
-										
-										<div class="form-group">
-											<button type="submit" class="btn btn-default">Search Now</button>
-										</div><!-- /.form-group -->
-									</form><!-- /#form-map -->
+									<div class="form-border">
+										<form role="form" id="form-map" class="form-map form-search" action="search">
+											<h2>Search</h2>
+											<div class="form-group">
+												<input type="text" name="company_name" placeholder="Company" autocomplete="false"/>
+											</div><!-- /.form-group -->
+											<div class="form-group">
+												<input type="text" class="form-control" id="search-box-property-id"  autocomplete="false" placeholder="Location">
+											</div><!-- /.form-group -->
+											<div class="form-group">
+												<select name="industry">
+													<option value="">-- Select industry --</option>
+													<option value="">Industry One</option>
+													<option value="">Industry Two</option>
+													</select>
+											</div><!-- /.form-group -->
+											
+											<div class="form-group">
+												<button type="submit" class="btn btn-default">Search Now</button>
+											</div><!-- /.form-group -->
+										</form><!-- /#form-map -->
+									</div>
 								</div><!-- /.search-box.map -->
 							</div><!-- /.col-md-3 -->
 						</div><!-- /.row -->

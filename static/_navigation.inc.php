@@ -11,7 +11,7 @@
                                     <li>
                                          <!-- Category widget -->
                                         <div class="widget">
-                                            <div class="widget_title"><h3>Categories</h3></div>
+                                            <div class="widget_title"><h3>Industries</h3></div>
                                             <div class="tb_widget_categories">
                                                 <ul>
                                                     <li><a href="#">Advertising/Marketing</a> (159)</li>
