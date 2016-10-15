@@ -96,7 +96,7 @@
   }
 
   .search-box-wrapper {
-    background-color: #9A6233;
+    background-color: #233B6B;
     padding: 20px 0;
     position: relative;
     top: 0 !important;
@@ -175,7 +175,7 @@
 				<div class="search-box-inner">
 					<div class="container">
 						<div class="row">
-							<div class="col-md-3 col-md-offset-9 col-sm-4 col-sm-offset-8">
+							<div class="col-md-3 col-md-offset-8 col-sm-4 col-sm-offset-8">
 								<div class="search-box map">
 									<div class="form-border">
 										<form role="form" id="form-map" class="form-map form-search" action="search">
