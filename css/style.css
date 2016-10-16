@@ -3805,12 +3805,18 @@ section .container .row .side-bar ul li{
     background-color:#fff;
     height:150px!important;
     width:150px;
-    margin:20px;
+    margin:0 auto;
+    background-image:url("../img/1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    vertical-align:middle;
+    margin-top:25px;
+    margin-bottom:25px;
 }
 
 .p-photo h4{
     position:middle!important;
-    background: rgba(000, 255, 255, 0.2);
+    background: rgba(34, 34, 34, 0.2);
     text-align:center;
     height: 30px;
     bottom: 30px;
@@ -3818,6 +3824,10 @@ section .container .row .side-bar ul li{
     width: 100px;
     margin: 110 auto;
     margin-left:25px;
+    padding:5px;
+    border-radius:5px;
+    color:#fff!important;
+
 }
 
 .panel_title .profile_main_content{

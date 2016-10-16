@@ -17,16 +17,15 @@
 				<div class="container">
 					<div class="row" style="border-radius:4px; background-color:#6E6E6E; height:200px;">
 						<!-- Profile Photo -->
-						<div class="col col_2_of_12" style="">
+						<div class="col col_3_of_12" style="">
 							<div class="p-photo">
-								<h4><a href="#">Logo</a></h4>
+								<h4><a href="">Logo</a></h4>
 
 							</div>												
 						</div><!-- End Profile -->
 						<!-- Profile cover -->
-						<div class="col col_10_of_12">
-						
-
+						<div class="col col_9_of_12">
+							
 						</div><!-- End Profile cover -->
 					</div>
 					<hr/>
