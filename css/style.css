@@ -3903,6 +3903,11 @@ section .container .row .side-bar ul li{
     width:150px;
  }
 
-  .form-db-group .p{
+  .form-db-group{
     display:inline;
+    width:100%;
+ }
+ .p{
+    width:150px ;
+    height:100%;
  }
