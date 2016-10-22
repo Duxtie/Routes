@@ -3840,3 +3840,29 @@ section .container .row .side-bar ul li{
     display:absolute; 
     position:;
 }
+
+.row div .change_password_form{
+    margin:0 auto;
+    vertical-align:middle;
+}
+
+ .change_password_form{
+    width:300px;
+    margin:0 auto;
+    vertical-align:middle;
+    margin-top:25px;
+    margin-bottom:25px;
+    background-border-color:#DDDDDD;
+    border-radius:8px;
+ }
+ body{
+    background:#fff;
+ }
+ 
+ .change_password_form input{
+    width:300px;
+    margin-bottom:10px;
+    vertical-align:middle;
+    border-radius:3px;
+
+ }

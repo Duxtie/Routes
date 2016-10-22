@@ -15,7 +15,7 @@
 			<section>
 
 				<div class="container">
-					<div class="row" style="border-radius:4px; background-color:#6E6E6E; height:200px;">
+					<div class="row" style="border-radius:4px; background-color:#10537a; height:200px;">
 						<!-- Profile Photo -->
 						<div class="col col_3_of_12" style="">
 							<div class="p-photo">
@@ -47,8 +47,7 @@
                                                 <li><a href="#">Plan Histories</a> </li>
                                                 <li><a href="#">Customer Service</a> </li>                                                
                                             </ul>
-                                        </div>
-                                    
+                                        </div>                                    
 
 								<!-- End widget content-->
 							</div><!-- End Widget Search widget -->
@@ -64,10 +63,7 @@
 									<h4><a href="blog.html">Profile content</a></h4>
 
 									<div class="profile_main_content">
-
-
-
-
+										<!-- <iframe name="profile_content" src="chat.php" marginheight="0" marginwidth="0" scrolling="auto" jquery="" width="400" height="300"></iframe> -->
 
 
 									</div>
