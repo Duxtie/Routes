@@ -3866,3 +3866,43 @@ section .container .row .side-bar ul li{
     border-radius:3px;
 
  }
+
+.job_post_form{
+    width:400px;
+    margin:0 auto;
+    vertical-align:middle;
+    margin-top:25px;
+    margin-bottom:25px;
+    background-border-color:#DDDDDD;
+    border-radius:8px;
+ }
+
+ .job_post_form input{
+    width:400px;
+    margin-bottom:10px;
+    vertical-align:middle;
+    border-radius:3px;
+
+ }
+
+  .job_post_form .form-group{
+    width:400px;
+    margin-bottom:10px;
+    vertical-align:middle;
+    border-radius:3px;
+
+ }
+
+
+   .job_post_form .form-group .p input{
+    height:150px;
+
+ }
+
+ .form-db-group .p input{
+    width:150px;
+ }
+
+  .form-db-group .p{
+    display:inline;
+ }
