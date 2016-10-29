@@ -1,78 +1,85 @@
 <!DOCTYPE html>
 <html>
-<?php require 'static/_head.inc.php';?>
+<?php require 'modules/partials/_head.inc.php';?>
 <body class="home">
 
     <!-- Wrapper -->
     <div id="wrapper" class="wide">   
 
-        <?php require 'static/_header.inc.php'; ?>
-
-
+        <?php require 'modules/partials/_header.inc.php'; ?>
 
         <div class="page-content">
 			<!-- Section -->
 			<section>
 
 				<div class="container">
-					<div class="row" style="border-radius:4px; background-color:#10537a; height:200px;">
-						<!-- Profile Photo -->
-						<div class="col col_3_of_12" style="">
-							<div class="p-photo">
-								<h4><a href="">Logo</a></h4>
-
-							</div>												
-						</div><!-- End Profile -->
-						<!-- Profile cover -->
-						<div class="col col_9_of_12">
-							
-						</div><!-- End Profile cover -->
+					<div class="row">
+						<div class="cover" style="border-radius:4px; background-color:#10537a; height:200px;">
+							<!-- Profile Photo -->
+							<div class="col col_3_of_12" style="">
+								<div class="p-photo">
+									<h4><a href="">Logo</a></h4>
+								</div>												
+							</div><!-- End Profile -->
+							<!-- Profile cover -->
+							<div class="col col_9_of_12">
+								
+							</div><!-- End Profile cover -->
+						</div>
 					</div>
 					<hr/>
 					<div class="row">
 
-						<!-- Sidebar -->
-						<div class="col col_3_of_12">
-							<!-- Widget Search widget -->
-							<div class="widget">
-								<div class="widget_title"><h3>Client Dashboard</h3></div>
-								<!-- widget content -->
-									    <div class="tb_widget_categories">
-                                            <ul>
-                                            	<li><a href="#">Updates</a> </li> 
-                                                <li><a href="#">Add Jobs</a> </li>
-                                                <li><a href="#">View Job</a> </li>
-                                                <li><a href="#">Search Job</a> </li>
-                                                <li><a href="#">Purchase Plan</a> </li>
-                                                <li><a href="#">Plan Histories</a> </li>
-                                                <li><a href="#">Customer Service</a> </li>                                                
-                                            </ul>
-                                        </div>                                    
 
-								<!-- End widget content-->
-							</div><!-- End Widget Search widget -->
-							
-						</div><!-- End Sidebar -->
-
+						<?php require "modules/user/partials/_user-sidebar.inc.php"; ?>
 
 						<!-- Main content -->
 						<div class="col col_9_of_12">
-						<!-- Panel title -->
-							<div class="panel_title">
-								<div>
-									<h4><a href="blog.html">Profile content</a></h4>
-
-									<div class="profile_main_content">
-										<!-- <iframe name="profile_content" src="chat.php" marginheight="0" marginwidth="0" scrolling="auto" jquery="" width="400" height="300"></iframe> -->
 
 
-									</div>
-
-								</div>
-							</div><!-- End Panel title -->
-
-
-							<!-- main content -->
+							<!-- Section -->
+							<section class="job-form">
+								<div class="">
+									<div class="row">
+										<div class="col col_8_of_12">
+											<div class="job-form">
+												<form class="" method="POST" action="">
+													<h2>Post Job</h2>
+													<div class="form-group">
+														<label>Job Title:</label>
+														<input class="" value="" name="" type="text" placeholder=""/>
+													</div>
+													<div class="form-group">
+														<div class="row">
+														<div class="col col_6_of_12">
+															<label>Choose an Industry:</label>
+															<input class="" value="" name="" type="text" placeholder=""/>
+														</div>
+														<div class="col col_6_of_12">
+															<label>Choose a Category:</label>
+															<input class="" value="" name="" type="text" placeholder=""/>
+														</div>
+														</div>
+													</div>
+													<div class="form-group">
+														<label>When would you like your service delivered?</label>
+														<input class="" value="" name="" type="text" placeholder=""/>
+													</div>
+													<div class="form-group">
+														<label>What is your budget for this service? (Optional) </label>
+														<input class="" value="" name="" type="text" placeholder="" />
+													</div>
+													<div class="form-group">
+														<label>Job Discription:</label>
+														<textarea class="" name="" type="" placeholder="" rows="5"></textarea>
+													</div>
+													<input class="" value="Post" type="submit"/>
+												</form>
+											</div><!-- ./job-form -->		
+										</div><!-- ./col -->					
+									</div><!-- ./row -->
+								</div><!-- ./container -->
+							</section><!-- ./section -->
 
 						</div><!-- End Main content -->
 						
@@ -83,11 +90,11 @@
 		</div>
 
 
-		<?php require 'static/_copyright.inc.php'; ?>
+		<?php require 'modules/partials/_copyright.inc.php'; ?>
 
     </div><!-- End Wrapper -->
     
-    <?php require 'static/_scripts.inc.php'; ?>   
+    <?php require 'modules/partials/_scripts.inc.php'; ?>   
 
 </body>
 </html>

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
-<?php require 'modules/partials/_head.inc.php';?>
+<?php require 'static/_head.inc.php';?>
 <body class="home">
 <style>
 
-/**************
+/****************
   Slide search
 *****************/
 #search-filter {
@@ -164,13 +164,12 @@
     <!-- Wrapper -->
     <div id="wrapper" class="wide">   
 
-        <?php 
-	        // Header
-	        require 'modules/partials/_header.inc.php';
-	        // Home banner
-	        require 'modules/partials/_wide_slider.inc.php'; 
-        ?>
+        <?php require 'static/_header.inc.php'; ?>
+		
+		<?php require 'static/widget/_wide_slider.inc.php'; ?>
 	
+
+           
 			<!-- Search Box -->
 			<div class="search-box-wrapper">
 				<div class="search-box-inner">
@@ -482,7 +481,7 @@
 								</div><!-- End Panel title -->
 								<!-- Layout post 2 -->
 								<div class="row">
-								<div class="col col_12_of_12">
+								<div class="col-md-12">
 									<!-- Layout post 1 -->
 									<div class="layout_post_2 clearfix">
 										<div class="item_thumb">
@@ -500,7 +499,7 @@
 										</div>
 									</div><!-- End Layout post 1 -->
 								</div>
-								<div class="col col_12_of_12">
+								<div class="col-md-12">
 									<!-- Layout post 1 -->
 									<div class="layout_post_2 clearfix">
 										<div class="item_thumb">
@@ -518,7 +517,7 @@
 										</div>
 									</div><!-- End Layout post 1 -->
 								</div>
-								<div class="col col_12_of_12">
+								<div class="col-md-12">
 									<!-- Layout post 1 -->
 									<div class="layout_post_2 clearfix">
 										<div class="item_thumb">
@@ -922,13 +921,13 @@
 			</section><!-- End Section -->
 		</div>
         
-        <?php require 'modules/partials/_footer.inc.php'; ?>
+        <?php require 'static/_footer.inc.php'; ?>
 
-        <?php require 'modules/partials/_copyright.inc.php'; ?>
+        <?php require 'static/_copyright.inc.php'; ?>
 
     </div><!-- End Wrapper -->
     
-    <?php require 'modules/partials/_scripts.inc.php'; ?>   
+    <?php require 'static/_scripts.inc.php'; ?>   
 <script>
 	$(document).ready(function($) {
 		"use strict";

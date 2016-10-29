@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
-<?php require 'static/_head.inc.php';?>
+<?php require 'modules/partials/_head.inc.php';?>
 <body class="home">
 
     <!-- Wrapper -->
     <div id="wrapper" class="wide">   
 
-        <?php require 'static/_header.inc.php'; ?>
+        <?php require 'modules/partials/_header.inc.php'; ?>
 
 <style>
 #copyright{
@@ -35,7 +35,8 @@
 	height:100%;
 }
 
-</style>
+
+ </style>
 
         <div class="page-content">
 			<!-- Section -->
@@ -47,16 +48,13 @@
 
 							<div class="change_password_form">
 								<form class="" method="POST" action="">
-									<h2>Change Password</h2>
+									<h2>Reset Password</h2>
 									<div class="form-group">
-										<label>New Password:</label>
-									<input class="" value="" name="New Password" type="password"placeholder="New password"></input>
+										<label>Email:</label>
+										<i class="icon-envelope4"></i>
+									<input class="" value="" name="email" type="email" placeholder="Enter email address..."></input>
 									</div>
-									<div class="form-group">
-										<label>New Password:</label>
-									<input class="" value="" name="New Password" type="password" placeholder="Retype New password"></input>
-									</div>
-									<input class="" value="Change" type="submit"></input>
+									<input class="" value="Reset" type="submit"></input>
 								</form>
 
 							</div>				
@@ -71,11 +69,11 @@
 		</div>
 
 
-		<?php require 'static/_copyright.inc.php'; ?>
+		<?php require 'modules/partials/_copyright.inc.php'; ?>
 
     </div><!-- End Wrapper -->
     
-    <?php require 'static/_scripts.inc.php'; ?>   
+    <?php require 'modules/partials/_scripts.inc.php'; ?>   
 
 </body>
 </html>

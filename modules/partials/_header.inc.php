@@ -1,7 +1,7 @@
 <!-- Header -->
         <header id="header" role="banner">
 
-            <?php require 'static/_header_meta.inc.php'; ?>
+            <?php require 'modules/partials/_header_meta.inc.php'; ?>
 
             <div id="header_main" class="sticky header_main">
                 <div class="container">
@@ -16,7 +16,7 @@
                         --> 
                     </div><!-- End Logo -->
 
-                    <?php require 'static/_navigation.inc.php'; ?>
+                    <?php require 'modules/partials/_navigation.inc.php'; ?>
 
                 </div>
             </div><!-- End Header main -->
